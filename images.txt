@@ -2,4 +2,4 @@ natfrp/launcher:latest
 centos:latest
 tomcat:9
 portainer/portainer
-java:17
+java:8
