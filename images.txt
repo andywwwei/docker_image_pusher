@@ -1,4 +1,4 @@
 natfrp/launcher:latest
 centos:latest
 tomcat:9
-portainer
+portainer:latest
