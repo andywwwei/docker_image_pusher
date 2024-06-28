@@ -1,2 +1,3 @@
 natfrp/launcher:latest
 centos:latest
+tomcat:9
